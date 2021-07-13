@@ -1,5 +1,5 @@
 # haiguaninvoice
-  识别type:海关税票；识别字段为：填发日期、号码、账号、公司名称、合计、类型等
+  识别type:深圳海关税票；识别字段为：填发日期、号码、账号、公司名称、合计、类型等
 ## 环境
    1. python3.6
    2. 依赖项安装：pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple 
@@ -7,7 +7,7 @@
 ## 模型架构
     YOLOv3 + CRNN + CTC
 ## 模型
-   1. 模型下载地址：链接：https://pan.baidu.com/s/1bjtd3ueiUj3rt16p2_YQ2w
+   1. 模型下载地址：私信
    2. 将下载完毕的模型文件夹models放置于项目根目录下
 ## 服务启动
    1. python3 app.py
