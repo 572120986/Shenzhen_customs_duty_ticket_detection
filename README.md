@@ -1,4 +1,4 @@
-# haiguaninvoice
+# Shenzhen customs duty ticket
   识别type:深圳海关税票；识别字段为：填发日期、号码、账号、公司名称、合计、类型等
 ## 环境
    1. python3.6
